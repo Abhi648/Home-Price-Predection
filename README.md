@@ -22,6 +22,7 @@ This project assesses the impact of key economic factors on home prices in the U
 
 - Data files for each key factor.
 - Jupyter Notebook with Python code.
+- Presentation pdf
 - This README.
 
 
